@@ -1,0 +1,63 @@
+{
+  "name": "Sonora, That B.I.T.C.H. #59",
+  "description": "FREE to mint plus gas, 222 supply, Multiple Possible acrostic 'B.I.T.C.H' hats, all randomly assorted words taken from Otto's brain",
+  "image": "seedoil.mypinata.cloud/59.png",
+  "dna": "bff128555c7a08c0edb38549375933efb8d4bca1",
+  "edition": 59,
+  "date": 1654765354145,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "fallingup"
+    },
+    {
+      "trait_type": "face",
+      "value": "face"
+    },
+    {
+      "trait_type": "hair",
+      "value": "blue"
+    },
+    {
+      "trait_type": "brows",
+      "value": "brows"
+    },
+    {
+      "trait_type": "shirt",
+      "value": "remilia tee 3"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouf"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "eyes"
+    },
+    {
+      "trait_type": "hat",
+      "value": "hat"
+    },
+    {
+      "trait_type": "B",
+      "value": "basel"
+    },
+    {
+      "trait_type": "I",
+      "value": "read"
+    },
+    {
+      "trait_type": "T",
+      "value": "tomorrow"
+    },
+    {
+      "trait_type": "C",
+      "value": "creation"
+    },
+    {
+      "trait_type": "H",
+      "value": "robinson"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
